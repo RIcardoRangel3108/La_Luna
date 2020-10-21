@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+#carouselExampleIndicators img{
+  width: 800px;
+  height: 400px;
+}
+
+.container .row .col-lg-3 #logo{
+  width: 250px;
+}
+body {
+  padding-top: 56px;
+  background-image: url("https://mobimg.b-cdn.net/pic/v2/gallery/preview/fon-luna-noch-26187.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.color{
+  background: white;
+  color: aqua;
+}
+
+.tam{
+  width: 250px;
+  height: 250px;
+}
+
